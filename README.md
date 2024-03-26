@@ -1,17 +1,17 @@
 ## inventor
-Diversos projetos criados no programa Autodesk Inventor durante o 5º Semestre (ano de 2021) da disciplina de Oficina de Desenho. 
+Several projects created in the Autodesk Inventor program during the 5th Semester (2021) of the Drawing Workshop discipline. 
 
-| Exercícios | Objetivo |
+| Exercises | Objetive |
 |-|-|
-| ASR 1 | Aprendendo comandos básicos |
-| ASR 2 | Aprendendo comandos mais avançados |
-| ASR 3 | Construção de uma prisilha |
-| ASR 4 | Configurando vistas 2D e legendas|
-| ASR 5 | Construção de uma válvula borboleta |
-| ASR 6 | Montagem da válvula borboleta |
-| ASR 7 | Construção de uma embalagem |
-| ASR 8 | Construção de uma estrutura com tubulação |
-| ASR 9 | Animação vista explodida da morsa|
-| ASR 10 | Animação inventor studio da morsa |
-| ASR 11 | Construção e montagem de um gabinete |
-| ASR 12 | Construção de uma caixa de som |
+| ASR 1 | Learning basic commands |
+| ASR 2 | Learning more advanced commands |
+| ASR 3 | Construction of a clip |
+| ASR 4 | Configuring 2D Views and Labels|
+| ASR 5 | Construction of a butterfly valve |
+| ASR 6 | Butterfly valve assembly |
+| ASR 7 | Construction of a packaging |
+| ASR 8 | Construction of a structure with piping |
+| ASR 9 | Exploded view animation of the walrus |
+| ASR 10 | Walrus inventor studio animation |
+| ASR 11 | Construction and assembly of a cabinet |
+| ASR 12 | Construction of a speaker |
